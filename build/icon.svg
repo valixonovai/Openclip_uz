@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="bg" x1="72" y1="40" x2="448" y2="472" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#242734"/>
+      <stop offset="1" stop-color="#12141B"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="142" y1="129" x2="371" y2="382" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7EE0B8"/>
+      <stop offset="1" stop-color="#A496FF"/>
+    </linearGradient>
+  </defs>
+  <rect x="24" y="24" width="464" height="464" rx="112" fill="url(#bg)"/>
+  <rect x="25.5" y="25.5" width="461" height="461" rx="110.5" fill="none" stroke="#FFFFFF" stroke-opacity=".12" stroke-width="3"/>
+  <path d="M178 151c-25-25-66-25-91 0s-25 66 0 91c20 20 49 24 73 13l35 29-35 29c-24-11-53-7-73 13-25 25-25 66 0 91s66 25 91 0c17-17 22-42 16-64l82-69-82-69c6-22 1-47-16-64Zm-64 64a25 25 0 1 1 36-36 25 25 0 0 1-36 36Zm36 176a25 25 0 1 1-36-36 25 25 0 0 1 36 36Z" fill="url(#accent)"/>
+  <path d="m250 239 105-87c21-18 53-15 71 6 18 22 15 54-6 72l-89 74-81-65Z" fill="#A496FF" opacity=".86"/>
+  <path d="m250 329 105 87c21 18 53 15 71-6 18-22 15-54-6-72l-89-74-81 65Z" fill="#7EE0B8" opacity=".86"/>
+  <circle cx="241" cy="284" r="17" fill="#F4F2FF"/>
+</svg>
